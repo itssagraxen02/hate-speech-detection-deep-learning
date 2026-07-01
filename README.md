@@ -1,6 +1,4 @@
-# Multi-Modal Hate Speech Detection using Deep Learning.
 
----
 # Multi-Modal Hate Speech Detection using Deep Learning.
 
 ---
