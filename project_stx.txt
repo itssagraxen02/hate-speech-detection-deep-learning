@@ -1,0 +1,51 @@
+hatespeech-multimodal-detection/
+├── app/
+│   └── app.py
+│   └── deploy.py
+├── notebooks/
+│   ├── dataset/
+│   │   ├── attention_masks/
+│   │   │   └── 0.pt
+│   │   │   └── 1.pt
+│   │   │   └── 10.pt
+│   │   │   └── 11.pt
+│   │   │   └── 12.pt
+│   │   │   └── 13.pt
+│   │   ├── images/
+│   │   │   └── 0.jpg
+│   │   │   └── 1.jpg
+│   │   │   └── 10.jpg
+│   │   │   └── 11.jpg
+│   │   │   └── 12.jpg
+│   │   │   └── 13.jpg
+│   │   ├── input_ids/
+│   │   │   └── 0.pt
+│   │   │   └── 1.pt
+│   │   │   └── 10.pt
+│   │   │   └── 11.pt
+│   │   │   └── 12.pt
+│   │   │   └── 13.pt
+│   │   │   └── 14.pt
+│   │   ├── transformed_images/
+│   │   │   └── 0.pt
+│   │   │   └── 1.pt
+│   │   │   └── 10.pt
+│   │   │   └── 11.pt
+│   │   │   └── 12.pt
+│   │   │   └── 13.pt
+│   │   └── clean_dataset.csv
+│   │   └── dataset.csv
+│   │   └── dataset_tokenized.csv
+│   │   └── dataset_transformed.csv
+│   ├── embeddings/
+│   │   └── embeddings_final.pt
+│   └── 1_hatespeech_data_collection.ipynb
+│   └── 2_text_data_preprocessing.ipynb
+│   └── 3_image_data_preprocessing.ipynb
+│   └── 4_multimodal_dataset_preparation.ipynb
+│   └── 5_multimodal_dataset_embeddings.ipynb
+│   └── 6_multimodal_model_development.ipynb
+└── .gitignore
+└── README.md
+└── project_stx.txt
+└── stx.py
